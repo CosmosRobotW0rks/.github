@@ -1,5 +1,5 @@
 ## Hi there 👋
-### We are Cosmos Robot Works, the First Robotics Competition team of Bahçeşehir Nakkaştepe High School in Istanbul Turkey.
+### We are Cosmos Robot Works, the FIRST Robotics Competition team of Bahçeşehir Nakkaştepe High School located in Üsküdar / Istanbul, Turkey.
 <!--
 
 **Here are some ideas to get you started:**
